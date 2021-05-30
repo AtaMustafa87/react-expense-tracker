@@ -1,4 +1,5 @@
 import React, {createContext,useReducer} from 'react';
+//react capitaiized
 import AppReducer from './AppReducer';
 const initialState ={transactions: [
     ]};
